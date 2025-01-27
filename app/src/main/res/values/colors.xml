@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#2D3043</color>
-    <color name="colorPrimaryDark">#191A2A</color>
-    <color name="colorAccent">#00B8D4</color>
+    <color name="colorPrimary">@color/material_dynamic_primary20</color>
+    <color name="colorPrimaryDark">@color/material_dynamic_neutral10</color>
+    <color name="colorAccent">@color/material_dynamic_primary60</color>
     <color name="textPrimary">#D8FFFFFF</color>
     <color name="textSecondary">#9EE3D5EB</color>
-    <color name="textActive">#00B8D4</color>
+    <color name="textActive">@color/colorAccent</color>
     <color name="textActiveSecondary">#9E81E8F7</color>
     <color name="textError">#FF4444</color>
     <color name="icon">@color/textPrimary</color>
